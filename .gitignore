@@ -153,6 +153,6 @@ Code/MinimalLib/dist
 MAIN_RDKIT_README*
 node_modules
 
-#Personal
+#Personal commands
 .cache/
 compile_commands.json
